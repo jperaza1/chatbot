@@ -5,6 +5,7 @@ Este proyecto sirve de ejemplo de como crear un bot en react usando la herramien
 **Instrucciones**
 
 * Ejecutar el siguiente comando: ``npm run docker:build``, Este comando va a crear una imagen a partir del archivo **Dockerfile**.
-* Ejecutar el siguiente comando: ``npm run docker:container``, Este comando va a crear un contenedor a partir de la imagen creada y va estar escuchando en el puerto **3001** y listo. 
+* Ejecutar el siguiente comando: ``npm run docker:container``, Este comando va a crear un contenedor a partir de la imagen creada y va estar escuchando en el puerto **3001**.
+* Entramos al siguiente enlace [http://127.0.0.1:3001/](http://127.0.0.1:3001/)
 
 ### [Demo](http://167.172.149.236:3001/)
